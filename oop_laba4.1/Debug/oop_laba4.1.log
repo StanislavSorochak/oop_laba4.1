@@ -1,0 +1,12 @@
+﻿  ArithmeticProgression.cpp
+C:\Users\Пользователь\source\repos\oop_laba4.1\oop_laba4.1\ArithmeticProgression.cpp(3,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\oop_laba4.1\oop_laba4.1\ArithmeticProgression.cpp(14,116): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GeometricProgression.cpp
+C:\Users\Пользователь\source\repos\oop_laba4.1\oop_laba4.1\GeometricProgression.cpp(3,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\oop_laba4.1\oop_laba4.1\GeometricProgression.cpp(14,114): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Progression_Amount.cpp
+  Source.cpp
+C:\Users\Пользователь\source\repos\oop_laba4.1\oop_laba4.1\Source.cpp(7,13): warning C4129: A: неизвестная escape-последовательность
+C:\Users\Пользователь\source\repos\oop_laba4.1\oop_laba4.1\Source.cpp(12,13): warning C4129: G: неизвестная escape-последовательность
+  Создание кода...
+  oop_laba4.1.vcxproj -> C:\Users\Пользователь\source\repos\oop_laba4.1\Debug\oop_laba4.1.exe
